@@ -63,15 +63,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alobadi-abdulaziz&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alobadi-abdulaziz&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
 <p align="center">
   <em>"Building AI solutions that bridge the gap between research and real-world impact."</em>
 </p>
