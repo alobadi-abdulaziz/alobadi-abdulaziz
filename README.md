@@ -20,8 +20,6 @@
 ### 🧠 About Me
 
 - 🎓 B.Sc. in Computer Science — Al Imam Mohammad Ibn Saud Islamic University
-- 🤖 Focused on **Machine Learning**, **Deep Learning**, **NLP**, **RAG**, and **Computer Vision**
-- 🏗️ I enjoy building end-to-end AI systems — from idea to deployment
 - 🔍 Currently seeking entry-level roles in **AI Engineering** or **Data Science**
 - 📍 Based in Riyadh, Saudi Arabia
 
@@ -56,11 +54,11 @@
 
 ---
 
-### 📜 Certifications & Training
+### Certifications & Training
 
-- 🏫 **AI Specialization Program** — KAUST Academy *(2025)*
+- **AI Specialization Program** — KAUST Academy *(2025)*
   - Python, Data Science, ML, Deep Learning, Computer Vision, AI Mathematics
-- 🧪 **LLMs & Reasoning Models Bootcamp** — Tuwaiq Club *(2026)*
+- **LLMs & Reasoning Models Bootcamp** — Tuwaiq Club *(2026)*
   - Attention mechanisms, GPT, fine-tuning, GRPO, model distillation
 
 ---
