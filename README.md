@@ -31,10 +31,9 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[AlRaqeeb](https://github.com/YOUR_USERNAME/AlRaqeeb)** | AI-powered smart surveillance system for real-time threat detection, event analysis, and automated reporting. *(Graduation Project)* | Python, FastAPI, YOLO, RAG, LLMs, VLM, ChromaDB, Docker |
-| **[NDI Chatbot](https://github.com/YOUR_USERNAME/ndi-chatbot)** | RAG-based chatbot that retrieves and answers questions from National Data Index content. | Python, RAG, LLM, Embeddings, ChromaDB |
-| **[Sign Language Translator](https://github.com/YOUR_USERNAME/sign-language-translator)** | System that translates sign language gestures into text. | Python, Computer Vision, Deep Learning |
-| **[Image Captioning](https://github.com/YOUR_USERNAME/image-captioning)** | Generates descriptive captions for images using deep learning. | Python, Deep Learning, NLP |
+| **[RAG for Slides](https://github.com/alobadi-abdulaziz/RAGForSlides)** | RAG-based Q&A system that answers questions from specific course slides. | Python, FastAPI, LangChain, ChromaDB, SQLite, Docker |
+| **[Image Captioning System](https://github.com/alobadi-abdulaziz/ImageCaptioningSystem)** | Generates descriptive captions for images using deep learning. | Python, Deep Learning, NLP |
+| **AlRaqeeb** *(Graduation Project)* | AI-powered smart surveillance system for real-time threat detection, event analysis, and automated reporting. | Python, FastAPI, YOLO, RAG, LLMs, VLM, ChromaDB, Docker |
 
 ---
 
@@ -67,8 +66,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alobadi-abdulaziz&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alobadi-abdulaziz&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
