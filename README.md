@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abdulaziz Alobadi 👋</h1>
 
 <p align="center">
-  <strong>AI Engineer · Data Scientist · Computer Science Graduate</strong><br>
+  <strong>Computer Science Graduate · AI Engineer · Data Scientist </strong><br>
   Fresh CS graduate with First Class Honors (GPA 4.81/5) specializing in AI & Data Science.<br>
   Passionate about building practical AI solutions for real-world challenges.
 </p>
