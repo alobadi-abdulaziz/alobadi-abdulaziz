@@ -17,7 +17,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 - 🎓 B.Sc. in Computer Science — Al Imam Mohammad Ibn Saud Islamic University
 - 🔍 Currently seeking entry-level roles in **AI Engineering** or **Data Science**
@@ -25,7 +25,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -37,7 +37,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
