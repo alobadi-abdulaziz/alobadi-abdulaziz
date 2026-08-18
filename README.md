@@ -25,10 +25,27 @@
 
 ---
 
+### Experience
+
+**AI Product Developer Trainee** · POWR — *06/2026 – Present*
+
+- Owned the full development lifecycle of the Video-to-Shorts AI Platform, an AI tool that converts long-form videos into short clips for podcasts, gaming, and general content, achieving 97% reframing/cropping accuracy across 63 clips. Responsible for building, testing, deploying, and documenting the platform end-to-end.
+- Participated in multiple requirement-gathering and scoping meetings to define project needs, including a technical session with a YouTube engineer to understand the YouTube API and discuss proposed ideas and solutions.
+- Worked within an Agile environment, coordinating tasks and priorities using Trello and Basecamp.
+
+**AI & Data Management Trainee** · NOZOM Company — *01/2026 – 05/2026*
+
+- Engaged in requirement-gathering meetings to understand department challenges and propose tailored AI solutions.
+- Built an AI proof-of-concept (POC) platform to optimize data management team workflows, featuring an AI chatbot that leverages National Data Index content to streamline information access.
+- Supported data management proposal development by reviewing client requirements, preparing proposal slides, and verifying content alignment with requirement documents.
+
+---
+
 ### Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| **Video-to-Shorts AI Platform** | AI platform that turns long-form videos, streams and uploads into vertical 9:16 short clips, with automatic clip selection, transcription, subtitles and speaker-aware reframing. | Python, FastAPI, React, LLMs, YOLO, MediaPipe, FFmpeg, PostgreSQL, Redis, Docker |
 | **AlRaqeeb** *(Graduation Project)* | AI-powered smart surveillance system for real-time threat detection, event analysis, and automated reporting. | Python, FastAPI, YOLO, RAG, LLMs, VLM, ChromaDB, Docker |
 | **NDI Chatbot** | RAG-based chatbot that retrieves and answers questions from National Data Index content. | Python, RAG, LLM, Embeddings, ChromaDB |
 | **Sign Language Translator** | System that translates sign language gestures into text. | Python, Computer Vision, Deep Learning |
